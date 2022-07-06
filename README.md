@@ -15,7 +15,8 @@ Commands to compile and run:
 	ii)g++ 200101076.cpp -o exe
 	iii)./exe
 
-![image](https://user-images.githubusercontent.com/83627593/177608743-43c3a372-6912-4352-9b51-ffb15219a8b2.png)
+![image](https://user-images.githubusercontent.com/83627593/177609169-507af3eb-c8e6-4e75-af05-2f7c06c56c0f.png)
+
 ![image](https://user-images.githubusercontent.com/83627593/177608731-0b6295c8-999c-475d-b677-3e88e63274ef.png)
 
 ---------------------
