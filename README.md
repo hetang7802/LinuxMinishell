@@ -14,10 +14,12 @@ Commands to compile and run:
 	i) chmod +x 200101076.cpp
 	ii)g++ 200101076.cpp -o exe
 	iii)./exe
+	
+![image](https://user-images.githubusercontent.com/83627593/177609262-96eece23-8131-4782-897b-46d9f08a3ead.png)
+
 
 ![image](https://user-images.githubusercontent.com/83627593/177609169-507af3eb-c8e6-4e75-af05-2f7c06c56c0f.png)
 
-![image](https://user-images.githubusercontent.com/83627593/177608731-0b6295c8-999c-475d-b677-3e88e63274ef.png)
 
 ---------------------
 
